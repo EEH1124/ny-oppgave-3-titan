@@ -356,7 +356,7 @@ footer {
   background: black; /* Keeps footer background consistent */
   color: beige;
   text-align: center;
-  padding: 10px 0; 
+  padding: 10px 0;
   font-size: 15px; /* Text smaller, thomas said it was too big so i try different sizes*/
   position: relative; /* Ensures it does not float */
   width: 100%; /* Full width stretch */
@@ -369,3 +369,9 @@ footer {
 }
 
 /* Hopefully Thomas is happy with the size now lol*/
+
+/* Mine and Thomas pages dont look the same on our computer, we had a lot of trouble gettin it to work well me, dont know because he has a mac and i laptop.
+I talked to john about it and he said its normal and we learn more about it later. That was the hardest part to match it, i had a lot problems with the navbar and etc.
+i dont know if it was glitch and the screen setting i have is the recomended one. I have problem styling last part to match but if i change the screen size from 150 to 100 ( i can barely use that) then it looks more close to Thomas version. 
+Theres also 2 pictures he hasnt been able to send me i cant sve them on my laptop for some reason so his code in my file lacks 2 background pictures so thats why his 2 pages are dark. 
+He gpnna have the best version or so called complete full version because of that unless one of you guys gets to help us before the deadline.*/
