@@ -97,7 +97,7 @@ h1 {
 }
 
 #Titan_1 {
-  background-image: url(./titan_8.jpg.avif);
+  background-image: url(./titan_8.jpg);
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
@@ -136,7 +136,7 @@ h2 {
 }
 
 #Titan_2 {
-  background-image: url(./page_2-kopi.jpg);
+  background-image: url(./grey\ background.jpg);
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
